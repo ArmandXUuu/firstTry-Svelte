@@ -1,0 +1,11 @@
+.DS_Store
+movieDB/node_modules
+/build
+/.svelte-kit
+movieDB/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+/.history
+/.idea
